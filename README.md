@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello Everyone 👋, I'm Masud Rana</h1>
-<h3 align="center">I am a font end developer. I am passionate about all things web development. I care about writing clean code and I genuinely love to learn.</h3>
+<h3 align="center">I am a font end developer. I Live in Bangladesh. I am passionate about all things web development. I care about writing clean code and I genuinely love to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudrana14&label=Profile%20views&color=0e75b6&style=flat" alt="masudrana14" /> </p>
 
