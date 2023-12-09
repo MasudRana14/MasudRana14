@@ -1,9 +1,11 @@
 
 ![logo](https://github.com/MasudRana14/MasudRana14/blob/main/asset/mygithubpng.png?raw=true)
+
+<h2 align="center">Hello Everyone 👋, I'm Masud Rana</h2>
+
 # 💫 About Me:
 🔭 I’m currently working on: Front-End projects to enhance my skills and showcase my abilities.<br>👯 I’m looking to collaborate on: Front-End projects.<br>🤝 I’m looking for help with: Strategies for optimizing performance and expand my front-End expertise.<br>🌱 I’m currently learning: Next Js.<br>📞 How to reach me: iammasud34@gmail.com <br>💬 Ask me about: React JS, java Script, ES6, Express Js.<br>⚡ Fun fact: I love ☕.
 
-<h2 align="center">Hello Everyone 👋, I'm Masud Rana</h2>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SabbirOfficial34/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masud-rana-8973452a4/) 
